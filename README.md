@@ -14,10 +14,11 @@
     <h5>Frontend</h5>
       <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">&nbsp
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">&nbsp
-        <img src="https://img.shields.io/badge/TypeScript-2F74C0?style=flat-square&logo=TypeScript&logoColor=white">&nbsp</br>
+        <img src="https://img.shields.io/badge/
+        TypeScript-2F74C0?style=flat-square&logo=TypeScript&logoColor=white">&nbsp</br>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>&nbsp
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Svelte.js-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>&nbsp
     </br>
       <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
     </div>
@@ -32,7 +33,16 @@
   </p>
 </div>
 <hr>
+<div>
+<h3>
+💻 DEV's log 💻
+</h3>
+    <a href="https://velog.io/@jeon-yj">
+        <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"> 
+    </a>
+<!--     [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jeon-yj)](https://github.com/jeon-yj/velog-readme-stats) -->
 
+</div><br>
 <div>
   <h3>📑 Git Information</h3>
    
