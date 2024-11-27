@@ -14,8 +14,7 @@
     <h5>Frontend</h5>
       <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">&nbsp
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">&nbsp
-        <img src="https://img.shields.io/badge/
-        TypeScript-2F74C0?style=flat-square&logo=TypeScript&logoColor=white">&nbsp</br>
+        <img src="https://img.shields.io/badge/TypeScript-2F74C0?style=flat-square&logo=TypeScript&logoColor=white">&nbsp</br>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>&nbsp
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Svelte.js-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>&nbsp
