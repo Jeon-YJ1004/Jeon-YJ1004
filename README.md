@@ -46,7 +46,7 @@
 <div>
   <h3>📑 Git Information</h3>
    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeon-YJ1004&layout=compact)](https://github.com/sangdding/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeon-YJ1004&layout=compact)](https://github.com/Jeon-YJ1004/github-readme-stats)
   ![Youngju's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeon-YJ1004&count_private=true&show_icons=true&theme=transparent)
 
 </div>
